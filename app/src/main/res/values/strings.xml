@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Karate File</string>
+    <string name="tab_recent">Ostatnie</string>
+    <string name="tab_photos">Zdjęcia</string>
+    <string name="tab_documents">Dokumenty</string>
+    <string name="tab_videos">Filmy</string>
+    <string name="tab_music">Muzyka</string>
+    <string name="permission_title">Potrzebny dostęp do plików</string>
+    <string name="permission_body">Aby indeksować pliki na urządzeniu, aplikacja potrzebuje dostępu do pamięci. Możesz to zmienić w każdej chwili w ustawieniach.</string>
+    <string name="permission_button">Nadaj uprawnienia</string>
+    <string name="search_placeholder">Szukaj po nazwie lub typie</string>
+    <string name="folder_section">Foldery</string>
+    <string name="files_section">Pliki</string>
+    <string name="stats_files">%1$d plików</string>
+    <string name="stats_size">%1$s łącznie</string>
+</resources>
